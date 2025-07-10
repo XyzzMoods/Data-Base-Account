@@ -1,14 +1,4 @@
 [
-  {
-    "username": "xyzz",
-    "password": "xyzz123"
-  },
-  {
-    "username": "Lip seisiro",
-    "password": "Lip555"
-  }, 
-  {
-    "username": "younglexx",
-    "password": "lexx234"
-  }
+  { "username": "xyzz", "password": "123" },
+  { "username": "moods", "password": "abc" }
 ]
