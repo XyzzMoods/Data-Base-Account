@@ -1,14 +1,12 @@
 [
   {
     "username": "admin",
-    "password": "123456"
+    "password": "1234",
+    "role": "owner"
   },
   {
     "username": "user1",
-    "password": "qwerty"
-  },
-  {
-    "username": "test",
-    "password": "password123"
+    "password": "abcd",
+    "role": "member"
   }
 ]
